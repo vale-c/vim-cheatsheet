@@ -1,6 +1,6 @@
 # Vim Cheatsheet
 
-📚 A handy Vim cheatsheet built with Vite.js, TypeScript, and Tailwind CSS.
+📚 A handy Vim cheatsheet built with [Vite.js](https://vitejs.dev/), [TypeScript](https://www.typescriptlang.org/), and [Tailwind CSS](https://tailwindcss.com/).
 
 ## Description
 
@@ -8,10 +8,10 @@ The Vim Cheatsheet project provides a comprehensive collection of Vim commands a
 
 ## Features
 
-✨ Simple and intuitive user interface
-✨ Categorized commands for easy navigation
-✨ Dark and light mode toggle for better readability
-✨ Responsive design for seamless usage across different devices
+✨ - Simple and intuitive user interface
+✨ - Categorized commands for easy navigation
+✨ - Dark and light mode toggle for better readability
+✨ - Responsive design for seamless usage across different devices
 
 ## Technologies Used
 
